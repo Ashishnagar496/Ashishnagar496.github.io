@@ -1,3 +1,14 @@
-theme: jekyll-theme-minimal
-title: Ashish_Nagar's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "Ashish Cyber Notes"
+description: "Writeups, CTFs, and cybersecurity learning journey"
+theme: minima
+
+author:
+  name: "Ashish"
+
+markdown: kramdown
+
+permalink: /:title/
+
+collections:
+  posts:
+    output: true
